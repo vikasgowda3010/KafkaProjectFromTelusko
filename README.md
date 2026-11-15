@@ -12,3 +12,11 @@ Consumer API hit:
 Apart from the video, the only change made was in the yaml file, for both Producer and Consumer-
 it is,
 <img width="1522" height="504" alt="image" src="https://github.com/user-attachments/assets/9628cdaf-a20f-49b0-99eb-510bc4b1f1de" />
+
+
+
+**In Producer part,
+JsonSerializer was changed to JacksonJsonSerializer
+
+In Consumer part,
+JsonDeserializer was changed to JacksonJsonDeserializer**
