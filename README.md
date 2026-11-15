@@ -9,6 +9,11 @@ Producer API hit:
 Consumer API hit:
 <img width="1722" height="600" alt="image" src="https://github.com/user-attachments/assets/ea0c1874-1a99-42c4-acdf-3216aea3f476" />
 
+
+Logs at the Consumer end, showing the received message from the Producer:
+<img width="1798" height="508" alt="image" src="https://github.com/user-attachments/assets/98a8b40d-5e32-455b-a1bf-031919e11937" />
+
+
 Apart from the video, the only change made was in the yaml file, for both Producer and Consumer-
 it is,
 <img width="1522" height="504" alt="image" src="https://github.com/user-attachments/assets/9628cdaf-a20f-49b0-99eb-510bc4b1f1de" />
