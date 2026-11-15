@@ -1,0 +1,4 @@
+com\telusko\kafka\service\KafkaService.class
+com\telusko\kafka\controller\KafkaController.class
+com\telusko\kafka\model\Course.class
+com\telusko\kafka\ProducerApplication.class
